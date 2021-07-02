@@ -1,0 +1,10 @@
+{ "links":
+  {
+    "ICS121" : "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1500",
+    "ICS122" : "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1506",
+    "ICS123": "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1505\nhttps://lms.iiitkottayam.ac.in/mod/bigbluebuttonbn/view.php?id=1167",
+    "IEC121": "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1499",
+    "IMA121": "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1500",
+    "IHS121": "https://lms.iiitkottayam.ac.in/mod/zoom/loadmeeting.php?id=1503"
+  }
+}
